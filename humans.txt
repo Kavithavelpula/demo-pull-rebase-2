@@ -7,9 +7,9 @@
 
 # THANKS
 
-    Bibhash Roy
+ kavitha
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr, AngularJS
+    java, Modernizr, AngularJS
